@@ -1,7 +1,3 @@
-Ingresso.java
-java
-Copiar
-Editar
 public class Ingresso {
     protected int codigo;
     protected double valor;
